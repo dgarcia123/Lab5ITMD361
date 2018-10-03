@@ -1,0 +1,46 @@
+body{
+	background: url(space.jpg);
+	background-position: center;
+	background-size: 100%;
+}
+
+table{
+	width: 95%;
+	height: 475px;
+	border: 3px white;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+}
+
+h1 {
+  font-family: K2D;
+  color :white;
+  font-weight:bold;
+  text-align: center;
+  font-size: 60px;
+}
+
+h3 {
+  font-family: K2D;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+th {
+  font-family: K2D;
+  background-color: lightgray;
+  font-size: 20px;
+  height: 30px;
+  text-align: center;
+  width: 40px;
+}
+
+td {
+  font-family: K2D;
+  background-color: rgba(255,255,255,0.75);
+  font-size: 18px;
+  text-align: center;
+  width: 40px;
+}
